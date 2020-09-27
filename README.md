@@ -1,4 +1,4 @@
-/*
+
 * Name: Jules A. Beszant
 * Date: 04/08/20
 * 
@@ -24,4 +24,3 @@
 * 20/18/20
 *   HC-06 is faulty but it does connect via bluetooth
 *   Project Completed
-*/
